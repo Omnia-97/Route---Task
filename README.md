@@ -102,5 +102,3 @@ For any questions or suggestions, feel free to reach out.
 - [Omnia Nabil](mailto:omnianabil1920@gmail.com)
 
 ---
-
-This README was generated with ❤ by [Omnia Nabil](https://github.com/Omnia-97)
