@@ -28,12 +28,12 @@ Route - Task is a Flutter application designed to display a grid view of product
 1. Clone the repository:
    
     bash
-    git clone https://github.com/Omnia-97/Route---Task.git
+    git clone https://github.com/Omnia-97/Route-Task.git
     
 2. Navigate to the project directory:
    
     bash
-    cd Route---Task
+    cd Route-Task
     
 3. Get the required packages:
 
